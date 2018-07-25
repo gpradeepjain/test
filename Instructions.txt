@@ -1,0 +1,4 @@
+
+1. Convert extension of all files present under "scripts" folder to "JS".
+
+2. Materialize_CSS icons are already configured in this project.
